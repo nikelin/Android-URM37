@@ -1,0 +1,23 @@
+URM37 ultra-sound movement & temperature detector API implementation to be used on Android platform.
+
+To enable USB host API support you should add a file named android.hardware.usb.host.xml
+and containing the following lines:
+
+<permissions>
+ <feature name="android.hardware.usb.host"/>
+</permissions>
+
+into folder
+
+/system/etc/permissions
+
+Authors:
+Cyril A. Karpenko <self@nikelin.ru>
+
+3rd party vendors:
+Mike Wakerly (https://code.google.com/p/usb-serial-for-android/)
+Felix Hädicke (https://code.google.com/r/felixhaedicke-usb-serial-for-android/)
+
+All source code of the project are the subject of the Apache License version 2.0 (see LICENSE file)
+
+The most actual version of the license can be found here http://www.apache.org/licenses/.
