@@ -2,45 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79396b8b-4523-4583-b693-e41f8ddf52ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/usb-serial-driver-sources.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/usb-serial-driver.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_android_4_1_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20080701.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_khronos_opengl_api_gl1_1_android_2_1_r1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xmlParserAPIs_2_6_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_1_1_4c.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/Sensor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/SensorResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/SensorResultType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/URM37.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/USBSERIAL_NOTICE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/urm37-opensource.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/.keep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/urm37-android-0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/urm37-android-0.1-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urm37-opensource.iml" afterPath="$PROJECT_DIR$/urm37-opensource.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="urm37-opensource.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369915767901" ignored="false" />
+    <file path="/pom.xml" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369926467887" ignored="false" />
     <file path="$PROJECT_DIR$/../../mirrovision/mirrovision-android-app/pom.xml" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369915575205" ignored="false" />
     <file path="/USBSERIAL_NOTICE.txt" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369916116858" ignored="false" />
-    <file path="/fragment.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369916495392" ignored="false" />
-    <file path="/Dummy.txt" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369916837586" ignored="false" />
+    <file path="/fragment.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923245319" ignored="false" />
+    <file path="/Dummy.txt" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369926651500" ignored="false" />
     <file path="/URM37.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369916644170" ignored="false" />
     <file path="/README" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369917078414" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/modules/check-access/src/main/webapp/WEB-INF/classes/modules/context.xml" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923423842" ignored="false" />
+    <file path="/ActivationServlet.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369921621894" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/modules/modules-servlet/src/main/java/com/a5000/platform/modules/servlet/ActivationServlet.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369921634821" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/managers/internal/InternalBeanManagerImpl.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923153107" ignored="false" />
+    <file path="/InternalBeanManagerImpl.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369922573315" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/modules/modules-core/src/main/java/com/a5000/platform/modules/modules/integration/ModulesActivatorImpl.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369922752939" ignored="false" />
+    <file path="/ModulesActivatorImpl.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369922748665" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/context/ClassInfoResolvingService.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="/ClassInfoResolvingService.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923037871" ignored="false" />
+    <file path="/a.dummy" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923050723" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/api/src/main/java/fors/common/model/dyno/DescProperty.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923086576" ignored="false" />
+    <file path="/DescProperty.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923085743" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/ann/MergedPropertyInfo.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="/MergedPropertyInfo.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923105734" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/ann/PropertyInfoAnn.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/context/ContextBeanAccessor.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/context/SessionAccessContext.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/context/StoredBeanManagers.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/logging/NonBlockingBufferedFileHandler.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/model/dyno/accessor/AnyWrappedCollectionAccessor.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/common/model/dyno/accessor/BeanPropertyAccessors.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/core/src/main/java/fors/expo/managers/ImportSessionManager.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/web/src/main/java/fors/web/common/controller/AnyBeanController.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/web/src/main/java/fors/web/context/ViewNameCache.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923597265" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/helpers/web-runner/src/main/java/com/a5000/platform/web/Starter.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923197399" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/server/modules/check-access/src/main/java/com/a5000/platform/web/controllers/SecurityCheckController.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369924334812" ignored="false" />
+    <file path="/SecurityCheckController.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923401782" ignored="false" />
+    <file path="/context.xml" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369923422752" ignored="false" />
+    <file path="/StartActivity.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369925353053" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/client/mobile/android/src/main/java/com/a5000/platform/client/mobile/StartActivity.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369925388873" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369926385756" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/client/mobile/android/AndroidManifest.xml" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369925345597" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/client/mobile/android/gen/com/a5000/platform/client/mobile/BuildConfig.java" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369925378676" ignored="false" />
+    <file path="$PROJECT_DIR$/../../a5000/client/mobile/android/pom.xml" changelist="79396b8b-4523-4583-b693-e41f8ddf52ba" time="1369926250172" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,16 +116,16 @@
       <file leaf-file-name="URM37.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/URM37.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="248" column="69" selection-start="7649" selection-end="7649" vertical-scroll-proportion="0.0">
+            <state line="248" column="0" selection-start="7649" selection-end="7649" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="89" selection-start="742" selection-end="742" vertical-scroll-proportion="0.81369865">
+            <state line="22" column="89" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -158,10 +170,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
+            <state line="33" column="75" selection-start="1407" selection-end="1407" vertical-scroll-proportion="0.8551237">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="45" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".keep" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/.keep">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -185,7 +215,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/libs/USBSERIAL_NOTICE.txt" />
         <option value="$PROJECT_DIR$/LICENSE" />
         <option value="$PROJECT_DIR$/src/main/java/Sensor.java" />
@@ -194,6 +223,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/SensorResultType.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/URM37.java" />
         <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -329,6 +360,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="urm37-opensource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="urm37-opensource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="libs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -364,6 +409,24 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -476,7 +539,17 @@
     <configuration default="false" name="URM37 - Install" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="-Dandroid.sdk.path=E:/adt-bundle-windows-x86_64-20130514/adt-bundle-windows-x86_64-20130514/sdk" />
+          </MavenRunnerSettings>
+        </option>
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
             <option name="profiles">
@@ -547,7 +620,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -563,14 +636,16 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.67066896" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32933104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5660377" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43396226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -644,20 +719,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../mirrovision/mirrovision-app/src/main/java/com/mirrovision/client/sensor/Sensor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="44" selection-start="0" selection-end="400" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../mirrovision/mirrovision-app/src/main/java/com/mirrovision/client/sensor/URM37.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="57" selection-start="0" selection-end="8202" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../mirrovision/mirrovision-app/src/main/java/com/mirrovision/client/sensor/SensorResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="19" selection-start="0" selection-end="506" vertical-scroll-proportion="0.0">
@@ -707,13 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/Sensor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="3" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0">
@@ -737,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/redshape/drivers/urm37/URM37.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="248" column="69" selection-start="7649" selection-end="7649" vertical-scroll-proportion="0.0">
+        <state line="248" column="0" selection-start="7649" selection-end="7649" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -754,7 +808,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="89" selection-start="742" selection-end="742" vertical-scroll-proportion="0.81369865">
+        <state line="22" column="89" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="45" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/.keep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="75" selection-start="1407" selection-end="1407" vertical-scroll-proportion="0.8551237">
           <folding />
         </state>
       </provider>
